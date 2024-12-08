@@ -54,7 +54,7 @@
     },
     "API_SECRET": {
       "description": "A passphrase that must be at least 12 characters long. Avoid 'special' characters, which can cause problems in some cases.",
-      "value": "",
+      "value": "123ABCabcCGM",
       "required": true
     },
     "BG_HIGH": {
@@ -104,7 +104,7 @@
     },
     "DISPLAY_UNITS": {
       "description": "Preferred BG units for the site: 'mg/dl' or 'mmol/L' (or just 'mmol').",
-      "value": "mg/dl",
+      "value": "mmol/L",
       "required": true
     },
     "ENABLE": {
